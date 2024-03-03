@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Angad2205
+- 👀 I have Deep passion and interest in Embedded systems 
+- 🌱 I’m currently working on Embedded C and DSA
+- 💞️ I’m looking to collaborate on Embedded system and IOT projects 
+- 📫 You can reach me through my linked in and mail
+- Email - asingh32_be22@thapar.edu
+- linkedin - https://www.linkedin.com/in/angad-singh-aa49ba270/
